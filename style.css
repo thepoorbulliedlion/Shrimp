@@ -1,0 +1,129 @@
+hr{
+            margin-top: 700px;
+        }
+
+        body{
+            font-family: sans-serif;
+            margin: 0px;
+            padding: 0px;
+            color:#D4F1F9;
+        }
+
+        h1{
+            font-size: 100px;
+            text-align: center;
+            backdrop-filter: blur(5px);
+            background-color: rgba(250, 250, 250,0.7);
+            margin-top: 0px;
+            padding-top: 50px;
+            padding-bottom: 50px;
+            letter-spacing: 10px;
+            color: rgb(255, 125, 102);
+        }
+
+        a{
+            color:#EFDBCB;
+            font-style: italic;
+        }
+
+        p{
+            font-size: 25px;
+            letter-spacing: 2px;
+        }
+
+        #image{
+            background: url(https://thumbs-prod.si-cdn.com/ZdOMtk4wZXOPNLONcmGZnti2U3g=/fit-in/1072x0/https://public-media.si-cdn.com/filer/14/fc/14fc7d20-940e-48ab-922e-96d2f9c85ddf/alex_cornell_antarctica-4.jpg);
+            background-position: center;
+            background-size: cover;
+            position: fixed;
+            width: 100vw;
+            height: 100vh;
+        }
+
+        #end{
+            margin-bottom: 50px;
+        }
+
+        #funfacts{
+            font-weight: bold;
+            color: rgb(255, 125, 102);
+            font-size: 70px;
+            text-align: center;
+            letter-spacing: 3px;
+            margin-top: 100px;
+        }
+
+        .main-info{
+            padding:50px;
+            width:60%;
+            height: 550px;
+            margin:auto;
+        }
+
+        .one{
+            left:15%;
+        }
+
+        .two{
+            left:40%;
+        }
+
+        .three{
+            left:64.8%;
+        }
+
+        .heading{
+            font-weight: bold;
+            color: rgb(255, 125, 102);
+            font-size: 40px;
+            letter-spacing: 3px;
+        }
+
+        .heading-tri{
+            font-weight: bold;
+            color: rgb(255, 125, 102);
+            font-size: 40px;
+            letter-spacing: 3px;
+            text-align: center;
+        }
+
+        .subtitle{
+            font-weight: bold;
+            color: rgb(255, 125, 102);
+            font-size: 70px;
+            text-align: center;
+            letter-spacing: 3px;
+            margin-top: 100px;
+        }
+
+        .glass{
+            backdrop-filter: blur(5px);
+            background-color: rgba(250, 250, 250,0.5);
+            border: 2px solid rgba(250, 250, 250,0.8);
+            border-radius: 5px;
+            box-shadow: 5px 5px 30px rgba(0, 0, 0, 0.9);
+        }
+
+        .tri{
+            position: absolute;
+            padding:2.5%;  
+            top:1300px;
+            width: 15%;        
+            height:400px;
+            font-family: monospace;
+        }
+
+        .tri:hover{
+            margin-left: 10px;
+            margin-top: 10px;
+        }
+
+        .space{
+            margin-top: 60px;
+            margin-bottom: 30px;
+        }
+
+        .first{
+            margin-top: 0px;
+            margin-bottom: 30px;
+        }
